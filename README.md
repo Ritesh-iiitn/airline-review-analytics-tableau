@@ -1,4 +1,4 @@
-# ✈️ British Airways Reviews Analysis Dashboard
+# Airways Reviews Analysis Dashboard
 
 This project dives into customer reviews of British Airways to uncover insights into passenger sentiment, regional patterns, and service quality trends. The analysis is visualized through an interactive **Tableau dashboard**.
 
